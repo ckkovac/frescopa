@@ -569,7 +569,7 @@ main > .section + .background {
   padding: 10px 0;
   margin-left: auto;
   margin-right: auto;
-  background: var(--frescopa-color-background) url('../../styles/backgrounds/big.svg') no-repeat center center/cover;
+  background: var(--frescopa-color-background) url('backgrounds/big.svg') no-repeat center center/cover;
 }
 
 main > .section + .background > div {
