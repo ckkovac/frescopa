@@ -16,3 +16,6 @@ blocks/form/rules/formula/*
 blocks/form/rules/model/*
 blocks/form/rules/functionRegistration.js
 blocks/video/videojs/video.min.js
+scripts/aem.js
+tools/cug/
+ue/models/component-definition.json
